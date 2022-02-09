@@ -1,0 +1,304 @@
+Time0 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time1 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time2 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time3 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time4 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time5 
+queue 0 Client2[ 5, 3] 
+ waiting period 3 
+queue 1 
+ waiting period 0 
+Time6 
+queue 0 Client2[ 5, 2] 
+ waiting period 2 
+queue 1 
+ waiting period 0 
+Time7 
+queue 0 Client2[ 5, 1] 
+ waiting period 1 
+queue 1 
+ waiting period 0 
+Time8 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time9 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time10 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time11 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time12 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time13 
+queue 0 Client0[ 13, 2] 
+ waiting period 2 
+queue 1 Client3[ 13, 3] 
+ waiting period 3 
+Time14 
+queue 0 Client0[ 13, 2] 
+ waiting period 1 
+queue 1 Client3[ 13, 2] 
+ waiting period 2 
+Time15 
+queue 0 
+ waiting period 0 
+queue 1 Client3[ 13, 1] 
+ waiting period 1 
+Time16 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time17 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time18 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time19 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time20 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time21 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time22 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time23 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time24 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time25 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time26 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time27 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time28 
+queue 0 Client1[ 28, 3] 
+ waiting period 3 
+queue 1 
+ waiting period 0 
+Time29 
+queue 0 Client1[ 28, 2] 
+ waiting period 2 
+queue 1 
+ waiting period 0 
+Time30 
+queue 0 Client1[ 28, 1] 
+ waiting period 1 
+queue 1 
+ waiting period 0 
+Time31 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time32 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time33 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time34 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time35 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time36 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time37 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time38 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time39 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time40 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time41 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time42 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time43 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time44 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time45 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time46 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time47 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time48 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time49 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time50 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time51 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time52 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time53 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time54 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time55 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time56 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time57 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time58 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time59 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+
+peek hour 13
+average service time 2.75
+average waiting time 2.75

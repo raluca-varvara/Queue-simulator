@@ -1,0 +1,664 @@
+Time0 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time1 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time2 
+queue 0 Client12[ 2, 6] 
+ waiting period 6 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time3 
+queue 0 Client12[ 2, 5] 
+ waiting period 5 
+queue 1 Client29[ 3, 4] 
+ waiting period 4 
+queue 2 Client42[ 3, 3] 
+ waiting period 3 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time4 
+queue 0 Client12[ 2, 4] 
+ waiting period 4 
+queue 1 Client29[ 3, 3] 
+ waiting period 3 
+queue 2 Client42[ 3, 2] 
+ waiting period 2 
+queue 3 Client19[ 4, 6] 
+ waiting period 6 
+queue 4 
+ waiting period 0 
+Time5 
+queue 0 Client12[ 2, 3] 
+ waiting period 3 
+queue 1 Client29[ 3, 2] 
+ waiting period 2 
+queue 2 Client42[ 3, 1] 
+ waiting period 1 
+queue 3 Client19[ 4, 5] 
+ waiting period 5 
+queue 4 Client35[ 5, 6] 
+ waiting period 6 
+Time6 
+queue 0 Client12[ 2, 2] 
+ waiting period 2 
+queue 1 Client29[ 3, 1] 
+ waiting period 1 
+queue 2 Client9[ 6, 5] 
+ waiting period 5 
+queue 3 Client19[ 4, 4] 
+ waiting period 4 
+queue 4 Client35[ 5, 5] 
+ waiting period 5 
+Time7 
+queue 0 Client12[ 2, 1] 
+ waiting period 1 
+queue 1 
+ waiting period 0 
+queue 2 Client9[ 6, 4] 
+ waiting period 4 
+queue 3 Client19[ 4, 3] 
+ waiting period 3 
+queue 4 Client35[ 5, 4] 
+ waiting period 4 
+Time8 
+queue 0 Client7[ 8, 4] 
+ waiting period 4 
+queue 1 Client37[ 8, 5] 
+ waiting period 5 
+queue 2 Client9[ 6, 3] 
+ waiting period 3 
+queue 3 Client19[ 4, 2] 
+ waiting period 2 
+queue 4 Client35[ 5, 3] 
+ waiting period 3 
+Time9 
+queue 0 Client7[ 8, 3] 
+ waiting period 3 
+queue 1 Client37[ 8, 4] 
+ waiting period 4 
+queue 2 Client9[ 6, 2] Client38[ 9, 4] 
+ waiting period 6 
+queue 3 Client19[ 4, 1] Client26[ 9, 4] 
+ waiting period 5 
+queue 4 Client35[ 5, 2] 
+ waiting period 2 
+Time10 
+queue 0 Client7[ 8, 2] 
+ waiting period 2 
+queue 1 Client37[ 8, 3] 
+ waiting period 3 
+queue 2 Client9[ 6, 1] Client38[ 9, 4] 
+ waiting period 5 
+queue 3 Client26[ 9, 4] 
+ waiting period 4 
+queue 4 Client35[ 5, 1] Client34[ 10, 6] 
+ waiting period 7 
+Time11 
+queue 0 Client7[ 8, 1] 
+ waiting period 1 
+queue 1 Client37[ 8, 2] 
+ waiting period 2 
+queue 2 Client38[ 9, 4] 
+ waiting period 4 
+queue 3 Client26[ 9, 3] 
+ waiting period 3 
+queue 4 Client34[ 10, 6] 
+ waiting period 6 
+Time12 
+queue 0 Client0[ 12, 3] 
+ waiting period 3 
+queue 1 Client37[ 8, 1] 
+ waiting period 1 
+queue 2 Client38[ 9, 3] 
+ waiting period 3 
+queue 3 Client26[ 9, 2] 
+ waiting period 2 
+queue 4 Client34[ 10, 5] 
+ waiting period 5 
+Time13 
+queue 0 Client0[ 12, 2] 
+ waiting period 2 
+queue 1 Client5[ 13, 3] 
+ waiting period 3 
+queue 2 Client38[ 9, 2] 
+ waiting period 2 
+queue 3 Client26[ 9, 1] 
+ waiting period 1 
+queue 4 Client34[ 10, 4] 
+ waiting period 4 
+Time14 
+queue 0 Client0[ 12, 1] Client11[ 14, 2] 
+ waiting period 3 
+queue 1 Client5[ 13, 2] 
+ waiting period 2 
+queue 2 Client38[ 9, 1] Client14[ 14, 3] 
+ waiting period 4 
+queue 3 Client6[ 14, 2] 
+ waiting period 2 
+queue 4 Client34[ 10, 3] 
+ waiting period 3 
+Time15 
+queue 0 Client11[ 14, 2] 
+ waiting period 2 
+queue 1 Client5[ 13, 1] Client4[ 15, 3] 
+ waiting period 4 
+queue 2 Client14[ 14, 3] 
+ waiting period 3 
+queue 3 Client6[ 14, 1] Client47[ 15, 4] 
+ waiting period 5 
+queue 4 Client34[ 10, 2] 
+ waiting period 2 
+Time16 
+queue 0 Client11[ 14, 1] Client25[ 16, 5] 
+ waiting period 6 
+queue 1 Client4[ 15, 3] 
+ waiting period 3 
+queue 2 Client14[ 14, 2] 
+ waiting period 2 
+queue 3 Client47[ 15, 4] 
+ waiting period 4 
+queue 4 Client34[ 10, 1] 
+ waiting period 1 
+Time17 
+queue 0 Client25[ 16, 5] 
+ waiting period 5 
+queue 1 Client4[ 15, 2] 
+ waiting period 2 
+queue 2 Client14[ 14, 1] Client22[ 17, 2] 
+ waiting period 3 
+queue 3 Client47[ 15, 3] 
+ waiting period 3 
+queue 4 Client13[ 17, 6] 
+ waiting period 6 
+Time18 
+queue 0 Client25[ 16, 4] 
+ waiting period 4 
+queue 1 Client4[ 15, 1] Client44[ 18, 2] 
+ waiting period 3 
+queue 2 Client22[ 17, 2] 
+ waiting period 2 
+queue 3 Client47[ 15, 2] 
+ waiting period 2 
+queue 4 Client13[ 17, 5] 
+ waiting period 5 
+Time19 
+queue 0 Client25[ 16, 3] 
+ waiting period 3 
+queue 1 Client44[ 18, 2] 
+ waiting period 2 
+queue 2 Client22[ 17, 1] Client16[ 19, 1] 
+ waiting period 2 
+queue 3 Client47[ 15, 1] Client27[ 19, 3] 
+ waiting period 4 
+queue 4 Client13[ 17, 4] 
+ waiting period 4 
+Time20 
+queue 0 Client25[ 16, 2] 
+ waiting period 2 
+queue 1 Client44[ 18, 1] Client21[ 20, 6] 
+ waiting period 7 
+queue 2 Client16[ 19, 1] Client31[ 20, 5] 
+ waiting period 6 
+queue 3 Client27[ 19, 3] 
+ waiting period 3 
+queue 4 Client13[ 17, 3] 
+ waiting period 3 
+Time21 
+queue 0 Client25[ 16, 1] Client10[ 21, 4] 
+ waiting period 5 
+queue 1 Client21[ 20, 6] 
+ waiting period 6 
+queue 2 Client31[ 20, 5] 
+ waiting period 5 
+queue 3 Client27[ 19, 2] Client39[ 21, 4] 
+ waiting period 6 
+queue 4 Client13[ 17, 2] 
+ waiting period 2 
+Time22 
+queue 0 Client10[ 21, 4] 
+ waiting period 4 
+queue 1 Client21[ 20, 5] 
+ waiting period 5 
+queue 2 Client31[ 20, 4] 
+ waiting period 4 
+queue 3 Client27[ 19, 1] Client39[ 21, 4] 
+ waiting period 5 
+queue 4 Client13[ 17, 1] Client3[ 22, 6] 
+ waiting period 7 
+Time23 
+queue 0 Client10[ 21, 3] 
+ waiting period 3 
+queue 1 Client21[ 20, 4] 
+ waiting period 4 
+queue 2 Client31[ 20, 3] 
+ waiting period 3 
+queue 3 Client39[ 21, 4] 
+ waiting period 4 
+queue 4 Client3[ 22, 6] 
+ waiting period 6 
+Time24 
+queue 0 Client10[ 21, 2] Client23[ 24, 6] 
+ waiting period 8 
+queue 1 Client21[ 20, 3] Client46[ 24, 6] 
+ waiting period 9 
+queue 2 Client31[ 20, 2] Client33[ 24, 6] 
+ waiting period 8 
+queue 3 Client39[ 21, 3] 
+ waiting period 3 
+queue 4 Client3[ 22, 5] 
+ waiting period 5 
+Time25 
+queue 0 Client10[ 21, 1] Client23[ 24, 6] 
+ waiting period 7 
+queue 1 Client21[ 20, 2] Client46[ 24, 6] 
+ waiting period 8 
+queue 2 Client31[ 20, 1] Client33[ 24, 6] 
+ waiting period 7 
+queue 3 Client39[ 21, 2] Client30[ 25, 1] Client48[ 25, 3] 
+ waiting period 6 
+queue 4 Client3[ 22, 4] Client49[ 25, 2] 
+ waiting period 6 
+Time26 
+queue 0 Client23[ 24, 6] 
+ waiting period 6 
+queue 1 Client21[ 20, 1] Client46[ 24, 6] 
+ waiting period 7 
+queue 2 Client33[ 24, 6] 
+ waiting period 6 
+queue 3 Client39[ 21, 1] Client30[ 25, 1] Client48[ 25, 3] Client1[ 26, 1] 
+ waiting period 6 
+queue 4 Client3[ 22, 3] Client49[ 25, 2] 
+ waiting period 5 
+Time27 
+queue 0 Client23[ 24, 5] 
+ waiting period 5 
+queue 1 Client46[ 24, 6] 
+ waiting period 6 
+queue 2 Client33[ 24, 5] 
+ waiting period 5 
+queue 3 Client30[ 25, 1] Client48[ 25, 3] Client1[ 26, 1] 
+ waiting period 5 
+queue 4 Client3[ 22, 2] Client49[ 25, 2] 
+ waiting period 4 
+Time28 
+queue 0 Client23[ 24, 4] Client24[ 28, 4] 
+ waiting period 8 
+queue 1 Client46[ 24, 5] 
+ waiting period 5 
+queue 2 Client33[ 24, 4] 
+ waiting period 4 
+queue 3 Client48[ 25, 3] Client1[ 26, 1] 
+ waiting period 4 
+queue 4 Client3[ 22, 1] Client49[ 25, 2] Client2[ 28, 4] 
+ waiting period 7 
+Time29 
+queue 0 Client23[ 24, 3] Client24[ 28, 4] 
+ waiting period 7 
+queue 1 Client46[ 24, 4] 
+ waiting period 4 
+queue 2 Client33[ 24, 3] Client8[ 29, 4] 
+ waiting period 7 
+queue 3 Client48[ 25, 2] Client1[ 26, 1] 
+ waiting period 3 
+queue 4 Client49[ 25, 2] Client2[ 28, 4] 
+ waiting period 6 
+Time30 
+queue 0 Client23[ 24, 2] Client24[ 28, 4] 
+ waiting period 6 
+queue 1 Client46[ 24, 3] Client41[ 30, 3] 
+ waiting period 6 
+queue 2 Client33[ 24, 2] Client8[ 29, 4] 
+ waiting period 6 
+queue 3 Client48[ 25, 1] Client1[ 26, 1] Client17[ 30, 5] 
+ waiting period 7 
+queue 4 Client49[ 25, 1] Client2[ 28, 4] 
+ waiting period 5 
+Time31 
+queue 0 Client23[ 24, 1] Client24[ 28, 4] 
+ waiting period 5 
+queue 1 Client46[ 24, 2] Client41[ 30, 3] 
+ waiting period 5 
+queue 2 Client33[ 24, 1] Client8[ 29, 4] 
+ waiting period 5 
+queue 3 Client1[ 26, 1] Client17[ 30, 5] 
+ waiting period 6 
+queue 4 Client2[ 28, 4] Client40[ 31, 5] 
+ waiting period 9 
+Time32 
+queue 0 Client24[ 28, 4] Client20[ 32, 3] 
+ waiting period 7 
+queue 1 Client46[ 24, 1] Client41[ 30, 3] Client28[ 32, 6] 
+ waiting period 10 
+queue 2 Client8[ 29, 4] 
+ waiting period 4 
+queue 3 Client17[ 30, 5] 
+ waiting period 5 
+queue 4 Client2[ 28, 3] Client40[ 31, 5] 
+ waiting period 8 
+Time33 
+queue 0 Client24[ 28, 3] Client20[ 32, 3] 
+ waiting period 6 
+queue 1 Client41[ 30, 3] Client28[ 32, 6] 
+ waiting period 9 
+queue 2 Client8[ 29, 3] Client43[ 33, 1] Client45[ 33, 1] 
+ waiting period 5 
+queue 3 Client17[ 30, 4] 
+ waiting period 4 
+queue 4 Client2[ 28, 2] Client40[ 31, 5] 
+ waiting period 7 
+Time34 
+queue 0 Client24[ 28, 2] Client20[ 32, 3] 
+ waiting period 5 
+queue 1 Client41[ 30, 2] Client28[ 32, 6] 
+ waiting period 8 
+queue 2 Client8[ 29, 2] Client43[ 33, 1] Client45[ 33, 1] 
+ waiting period 4 
+queue 3 Client17[ 30, 3] Client32[ 34, 1] 
+ waiting period 4 
+queue 4 Client2[ 28, 1] Client40[ 31, 5] 
+ waiting period 6 
+Time35 
+queue 0 Client24[ 28, 1] Client20[ 32, 3] 
+ waiting period 4 
+queue 1 Client41[ 30, 1] Client28[ 32, 6] 
+ waiting period 7 
+queue 2 Client8[ 29, 1] Client43[ 33, 1] Client45[ 33, 1] Client18[ 35, 4] 
+ waiting period 7 
+queue 3 Client17[ 30, 2] Client32[ 34, 1] 
+ waiting period 3 
+queue 4 Client40[ 31, 5] 
+ waiting period 5 
+Time36 
+queue 0 Client20[ 32, 3] 
+ waiting period 3 
+queue 1 Client28[ 32, 6] 
+ waiting period 6 
+queue 2 Client43[ 33, 1] Client45[ 33, 1] Client18[ 35, 4] 
+ waiting period 6 
+queue 3 Client17[ 30, 1] Client32[ 34, 1] 
+ waiting period 2 
+queue 4 Client40[ 31, 4] 
+ waiting period 4 
+Time37 
+queue 0 Client20[ 32, 2] Client36[ 37, 5] 
+ waiting period 7 
+queue 1 Client28[ 32, 5] 
+ waiting period 5 
+queue 2 Client45[ 33, 1] Client18[ 35, 4] 
+ waiting period 5 
+queue 3 Client32[ 34, 1] Client15[ 37, 3] 
+ waiting period 4 
+queue 4 Client40[ 31, 3] 
+ waiting period 3 
+Time38 
+queue 0 Client20[ 32, 1] Client36[ 37, 5] 
+ waiting period 6 
+queue 1 Client28[ 32, 4] 
+ waiting period 4 
+queue 2 Client18[ 35, 4] 
+ waiting period 4 
+queue 3 Client15[ 37, 3] 
+ waiting period 3 
+queue 4 Client40[ 31, 2] 
+ waiting period 2 
+Time39 
+queue 0 Client36[ 37, 5] 
+ waiting period 5 
+queue 1 Client28[ 32, 3] 
+ waiting period 3 
+queue 2 Client18[ 35, 3] 
+ waiting period 3 
+queue 3 Client15[ 37, 2] 
+ waiting period 2 
+queue 4 Client40[ 31, 1] 
+ waiting period 1 
+Time40 
+queue 0 Client36[ 37, 4] 
+ waiting period 4 
+queue 1 Client28[ 32, 2] 
+ waiting period 2 
+queue 2 Client18[ 35, 2] 
+ waiting period 2 
+queue 3 Client15[ 37, 1] 
+ waiting period 1 
+queue 4 
+ waiting period 0 
+Time41 
+queue 0 Client36[ 37, 3] 
+ waiting period 3 
+queue 1 Client28[ 32, 1] 
+ waiting period 1 
+queue 2 Client18[ 35, 1] 
+ waiting period 1 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time42 
+queue 0 Client36[ 37, 2] 
+ waiting period 2 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time43 
+queue 0 Client36[ 37, 1] 
+ waiting period 1 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time44 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time45 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time46 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time47 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time48 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time49 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time50 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time51 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time52 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time53 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time54 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time55 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time56 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time57 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time58 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+Time59 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+queue 2 
+ waiting period 0 
+queue 3 
+ waiting period 0 
+queue 4 
+ waiting period 0 
+
+peek hour 25
+average service time 3.82
+average waiting time 5.48

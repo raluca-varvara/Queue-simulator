@@ -1,0 +1,79 @@
+Time0 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time1 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time2 
+queue 0 
+ waiting period 0 
+queue 1 
+ waiting period 0 
+Time3 
+queue 0 Client3[ 3, 5] 
+ waiting period 5 
+queue 1 
+ waiting period 0 
+Time4 
+queue 0 Client3[ 3, 4] 
+ waiting period 4 
+queue 1 
+ waiting period 0 
+Time5 
+queue 0 Client3[ 3, 3] Client1[ 5, 3] 
+ waiting period 6 
+queue 1 Client0[ 5, 5] Client2[ 5, 5] 
+ waiting period 10 
+Time6 
+queue 0 Client3[ 3, 2] Client1[ 5, 3] Client4[ 6, 5] 
+ waiting period 10 
+queue 1 Client0[ 5, 4] Client2[ 5, 5] 
+ waiting period 9 
+Time7 
+queue 0 Client3[ 3, 1] Client1[ 5, 3] Client4[ 6, 5] 
+ waiting period 9 
+queue 1 Client0[ 5, 3] Client2[ 5, 5] 
+ waiting period 8 
+Time8 
+queue 0 Client1[ 5, 3] Client4[ 6, 5] 
+ waiting period 8 
+queue 1 Client0[ 5, 2] Client2[ 5, 5] 
+ waiting period 7 
+Time9 
+queue 0 Client1[ 5, 2] Client4[ 6, 5] 
+ waiting period 7 
+queue 1 Client0[ 5, 1] Client2[ 5, 5] 
+ waiting period 6 
+Time10 
+queue 0 Client1[ 5, 1] Client4[ 6, 5] 
+ waiting period 6 
+queue 1 Client2[ 5, 5] 
+ waiting period 5 
+Time11 
+queue 0 Client4[ 6, 5] 
+ waiting period 5 
+queue 1 Client2[ 5, 4] 
+ waiting period 4 
+Time12 
+queue 0 Client4[ 6, 4] 
+ waiting period 4 
+queue 1 Client2[ 5, 3] 
+ waiting period 3 
+Time13 
+queue 0 Client4[ 6, 3] 
+ waiting period 3 
+queue 1 Client2[ 5, 2] 
+ waiting period 2 
+Time14 
+queue 0 Client4[ 6, 2] 
+ waiting period 2 
+queue 1 Client2[ 5, 1] 
+ waiting period 1 
+
+peek hour 6
+average service time 4.6
+average waiting time 7.2
